@@ -1,4 +1,4 @@
-> $已知sin(\alpha - \beta) = \frac{1}{3},\ cos\ \alpha \ sin \ \beta = \frac{1}{6},\ 则cos\ (2 \alpha + 2 \beta) =$ ________.
+> $已知\ sin(\alpha - \beta) = \frac{1}{3},\ cos\ \alpha \ sin \ \beta = \frac{1}{6},\ 则cos\ (2 \alpha + 2 \beta) =$ ________.
 
 已知：
 
